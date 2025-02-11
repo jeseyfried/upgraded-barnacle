@@ -11,7 +11,7 @@ date: 2024-10-24
 %}
 
 
-### Scrolly boxes on revealed images
+### Paleography is the study of handwritten scripts
 The [images](images) page shows how to reveal background images. We can also have textboxes scroll up past the image after the image fully comes into view.
 
 Nunc posuere metus quis tempus dapibus. Sed hendrerit dapibus risus, gravida lacinia erat placerat ut. Sed purus ante, rutrum in libero sed, pretium laoreet mauris. Pellentesque sit amet viverra est. Mauris mi orci, ullamcorper vitae arcu nec, pretium vestibulum lorem. In pulvinar libero at ex venenatis vestibulum. Sed nec mauris maximus, ornare magna eu, bibendum ligula. Proin a justo non tellus consequat dapibus vel sit amet elit.
