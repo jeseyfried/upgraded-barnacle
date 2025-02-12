@@ -7,6 +7,7 @@ date: 2024-10-24
 {% include jumbotron.html
   height="50"
   image-url="/assets/bg-images/27688283.jpg"
+  color="ff0000"
   title="Late Fourteenth-Century Catalan Paleography"
 %}
 
