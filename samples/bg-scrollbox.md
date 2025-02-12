@@ -7,11 +7,11 @@ date: 2024-10-24
 {% include jumbotron.html
   height="50"
   image-url="/assets/bg-images/27688283.jpg"
-  title="Late Fourteenth-Century Catalan Paleography"
+  title=<code style="color: magenta">"Late Fourteenth-Century Catalan Paleography"</code>
 %}
 
 
-### Paleography is the study of handwritten scripts
+### Paleography is the study of handwritten scripts of the past
 The documents on this page are samples of the paleography of the late fourteenth-century Crown of Aragon.
 
 Documents like these can be found by searching in [PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/search), a database of digitized images of archival documents maintained by the government of Spain.
