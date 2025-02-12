@@ -80,6 +80,7 @@ BACKGROUNDs
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   background: blue;
+  background-size: cover;
   height:auto;
 }
 
