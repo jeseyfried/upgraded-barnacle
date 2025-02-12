@@ -19,7 +19,7 @@ Documents like these can be found by searching in PARES, a database of digitized
 
 {% include bg.html
   height="220"
-  image-url="/assets/bg-images/hike-3.jpg"
+  image-url="/assets/bg-images/27688286.jpg"
   pre-box-space="100"
   box-content=" 
        This is a letter from Violant de Bar."
