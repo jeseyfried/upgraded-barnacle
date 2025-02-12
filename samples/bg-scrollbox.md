@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: ACA Paleography
 layout: base
 date: 2024-10-24
 ---
