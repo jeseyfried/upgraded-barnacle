@@ -14,7 +14,7 @@ date: 2024-10-24
 ### Paleography is the study of handwritten scripts of the past
 The documents on this page are samples of the paleography of the late fourteenth-century Crown of Aragon.
 
-Documents like these can be found by searching in [PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/search), a database of digitized images of archival documents maintained by the government of Spain.
+Documents like these can be found by searching in [PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/search), a database of digitized images of archival documents maintained by the government of Spain...
 
 
 {% include bg.html
