@@ -38,8 +38,7 @@ Girona was an important city in the Crown of Aragon in the late fourteenth centu
   image-url="/assets/bg-images/Jewish_Quarter_Gerona.jpg"
   pre-box-space="100"
   box-content="
-       This is a photo from the Jewish Quarter of Girona. 
-<hr/> "
+       This is a photo from the Jewish Quarter of Girona." 
 %}
 
 
