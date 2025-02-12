@@ -12,9 +12,9 @@ date: 2024-10-24
 
 
 ### Paleography is the study of handwritten scripts
-The [images](images) page shows how to reveal background images. We can also have textboxes scroll up past the image after the image fully comes into view.
+The documents on this page are samples of the paleography of the late fourteenth-century Crown of Aragon.
 
-Nunc posuere metus quis tempus dapibus. Sed hendrerit dapibus risus, gravida lacinia erat placerat ut. Sed purus ante, rutrum in libero sed, pretium laoreet mauris. Pellentesque sit amet viverra est. Mauris mi orci, ullamcorper vitae arcu nec, pretium vestibulum lorem. In pulvinar libero at ex venenatis vestibulum. Sed nec mauris maximus, ornare magna eu, bibendum ligula. Proin a justo non tellus consequat dapibus vel sit amet elit.
+Documents like these can be found by searching in PARES, a database of digitized images of archival documents maintained by the government of Spain.
 
 
 {% include bg.html
@@ -22,7 +22,7 @@ Nunc posuere metus quis tempus dapibus. Sed hendrerit dapibus risus, gravida lac
   image-url="/assets/bg-images/hike-3.jpg"
   pre-box-space="100"
   box-content=" 
-       See, there is a text box scrolling by, visible after the whole background came into view. Once this text box scrolls off the top of the page, you'll start to see the next section emerge at the bottom of the screen."
+       This is a letter from Violant de Bar."
 %}
 
 
