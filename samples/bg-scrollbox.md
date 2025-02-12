@@ -22,7 +22,7 @@ Documents like these can be found by searching in [PARES](https://pares.mcu.es/P
   image-url="/assets/bg-images/27688286.jpg"
   pre-box-space="100"
   box-content=" 
-       This is a letter from Violant de Bar."
+       This is a letter sent by Violant de Bar."
 %}
 
 
