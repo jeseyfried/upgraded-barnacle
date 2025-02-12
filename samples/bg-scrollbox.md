@@ -28,26 +28,18 @@ Documents like these can be found by searching in [PARES](https://pares.mcu.es/P
 
 
 
-### Scrolly boxes on fixed images
-Just above, wee see how to have a large background image "revealed" by the page scrolling up off of it, meaning it looks stationary while text scrolls past it.
+### Late Fourteenth-Century Crown of Aragon
+Girona was an important city in the Crown of Aragon in the late fourteenth century.
 
-As you can see below, you can also have a large backgrtound image scroll into view (instead of remaining still), as is happening below. 
-
-The image freeze it when it gets to the top of the viewport, and a textbox can scroll past, grabbing the background with it as it scrolls away. Check it!
 
 
 {% include bg-sticky.html
   height="220"
-  image-url="/assets/bg-images/hike-4.jpg"
+  image-url="/assets/bg-images/Jewish_Quarter_Gerona.jpg"
   pre-box-space="100"
   box-content="
-       This text box is scrolling. And as soon as it leaves the viewport, the background image will begin to scroll away. 
-<hr/>
-       This text box is scrolling. And as soon as it leaves the viewport, the background image will begin to scroll away. 
-  <p/>     
-       This text box is scrolling. And as soon as it leaves the viewport, the background image will begin to scroll away. 
-    <p/>   
-       This text box is scrolling. And as soon as it leaves the viewport, the background image will begin to scroll away.   "
+       This is a photo from the Jewish Quarter of Girona. 
+<hr/> "
 %}
 
 
