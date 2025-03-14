@@ -10,7 +10,7 @@ date: 2025-03-14
 
 {% include figure.html class="right" width="33%" caption="Photograph of 3D printed model in the UNM History Tech Lab" image-url="st_denis_capital.jpeg" source-url="img/st_denis_capital.jpeg" %}
 
-This is a foliated capital from the St. Denis Abbey. Located on the outskirts of Paris, the Abbey received the official designation of cathedral in 1966. The current structure includes many repairs after a period of pillage in the era of the French Revolution. This capital, probably dislodged during that time of disrepair and destruction, now resides in the <a href="https://www.musee-moyenage.fr/collection/oeuvre/chapiteau-acanthe-et-tete.html">Musée Cluny</a> in Paris. 
+This is a foliated capital from the <a href="https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis">St. Denis Abbey</a>. Located on the outskirts of Paris, the Abbey received the official designation of cathedral in 1966. The current structure includes many repairs after a period of pillage in the era of the French Revolution. This capital, probably dislodged during that time of disrepair and destruction, now resides in the <a href="https://www.musee-moyenage.fr/collection/oeuvre/chapiteau-acanthe-et-tete.html">Musée Cluny</a> in Paris. 
 
 {% include figure.html class="left" width="33%" caption="This set of capitals in the Church of the Virgin Mary in Bíňa, Slovakia, show the evolution from Romanesque capitals to early Gothic capitals." image-url="800px-Bény_bélletes_kapu_03.jpg" source-url="https://commons.wikimedia.org/wiki/File:B%C3%A9ny_b%C3%A9lletes_kapu_03.jpg" %}
 
