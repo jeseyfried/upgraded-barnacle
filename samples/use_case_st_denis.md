@@ -16,4 +16,5 @@ This is a foliated capital from the St. Denis Abbey. Located on the outskirts of
 
 This capital demonstrates the historical significance of the Abbey, rebuilt in the twelfth century under the leadership of Abbot Suger. In this stage of the Abbey's history, the architectural design featured Gothic styles and elements. The structure is the oldest example of the incorporation of all elements of Gothic architecture such as high narrow arches, rose windows, and foliated capitals. 
 
+The 3D model scan and STL file were produced by the <a href="https://www.myminifactory.com/object/3d-print-capital-sculpted-heads-213398">Scan the World Project</a>.
 
